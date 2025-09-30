@@ -1,5 +1,7 @@
 ## Hi there 👋
-- 🔭 I’m currently working as a Clinical Ophthalmology Health Educator  I transitioned from physical therapy and machining into ophthalmic research, where I developed a patient education program.
+
+My name is Matt and working as a Clinical Ophthalmology Health Educator  I transitioned from physical therapy and machining into ophthalmic research, where I developed a patient education program. Interested in all things Data Science and continuously improving Python skills.
+- 🔭 I’m currently working data analysis of my research project, determining underlying trends found, and finishing up the publication of the study. You can view the research project at ([retinaed.com](https://www.retinaed.com/))
 - 🌱 I’m currently finishing up my MS in Data Science/AI through Maryville University (December 2025)
 - 💬 Ask me about anything you want to know, I am a pretty open person!
 - 📫 How to reach me: matty41v@gmail.com
